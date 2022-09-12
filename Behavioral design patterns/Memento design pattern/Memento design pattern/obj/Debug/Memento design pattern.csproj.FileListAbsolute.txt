@@ -1,0 +1,8 @@
+C:\Users\fatih\source\repos\Memento design pattern\Memento design pattern\bin\Debug\Memento design pattern.exe.config
+C:\Users\fatih\source\repos\Memento design pattern\Memento design pattern\bin\Debug\Memento design pattern.exe
+C:\Users\fatih\source\repos\Memento design pattern\Memento design pattern\bin\Debug\Memento design pattern.pdb
+C:\Users\fatih\source\repos\Memento design pattern\Memento design pattern\obj\Debug\Memento design pattern.csproj.AssemblyReference.cache
+C:\Users\fatih\source\repos\Memento design pattern\Memento design pattern\obj\Debug\Memento design pattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\source\repos\Memento design pattern\Memento design pattern\obj\Debug\Memento design pattern.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\Memento design pattern\Memento design pattern\obj\Debug\Memento design pattern.exe
+C:\Users\fatih\source\repos\Memento design pattern\Memento design pattern\obj\Debug\Memento design pattern.pdb

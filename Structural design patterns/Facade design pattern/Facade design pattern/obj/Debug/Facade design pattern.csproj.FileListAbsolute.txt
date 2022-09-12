@@ -1,0 +1,8 @@
+C:\Users\fatih\source\repos\Facade design pattern\Facade design pattern\bin\Debug\Facade design pattern.exe.config
+C:\Users\fatih\source\repos\Facade design pattern\Facade design pattern\bin\Debug\Facade design pattern.exe
+C:\Users\fatih\source\repos\Facade design pattern\Facade design pattern\bin\Debug\Facade design pattern.pdb
+C:\Users\fatih\source\repos\Facade design pattern\Facade design pattern\obj\Debug\Facade design pattern.csproj.AssemblyReference.cache
+C:\Users\fatih\source\repos\Facade design pattern\Facade design pattern\obj\Debug\Facade design pattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\source\repos\Facade design pattern\Facade design pattern\obj\Debug\Facade design pattern.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\Facade design pattern\Facade design pattern\obj\Debug\Facade design pattern.exe
+C:\Users\fatih\source\repos\Facade design pattern\Facade design pattern\obj\Debug\Facade design pattern.pdb

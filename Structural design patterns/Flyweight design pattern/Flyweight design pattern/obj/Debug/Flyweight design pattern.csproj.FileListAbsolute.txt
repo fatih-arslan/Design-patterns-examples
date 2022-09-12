@@ -1,0 +1,16 @@
+C:\Users\fatih\source\repos\Flyweight design pattern\Flyweight design pattern\bin\Debug\Flyweight design pattern.exe.config
+C:\Users\fatih\source\repos\Flyweight design pattern\Flyweight design pattern\bin\Debug\Flyweight design pattern.exe
+C:\Users\fatih\source\repos\Flyweight design pattern\Flyweight design pattern\bin\Debug\Flyweight design pattern.pdb
+C:\Users\fatih\source\repos\Flyweight design pattern\Flyweight design pattern\obj\Debug\Flyweight design pattern.csproj.AssemblyReference.cache
+C:\Users\fatih\source\repos\Flyweight design pattern\Flyweight design pattern\obj\Debug\Flyweight design pattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\source\repos\Flyweight design pattern\Flyweight design pattern\obj\Debug\Flyweight design pattern.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\Flyweight design pattern\Flyweight design pattern\obj\Debug\Flyweight design pattern.exe
+C:\Users\fatih\source\repos\Flyweight design pattern\Flyweight design pattern\obj\Debug\Flyweight design pattern.pdb
+C:\Users\fatih\source\repos\Design patterns\Strucural design patterns\Flyweight design pattern\Flyweight design pattern\bin\Debug\Flyweight design pattern.exe.config
+C:\Users\fatih\source\repos\Design patterns\Strucural design patterns\Flyweight design pattern\Flyweight design pattern\bin\Debug\Flyweight design pattern.exe
+C:\Users\fatih\source\repos\Design patterns\Strucural design patterns\Flyweight design pattern\Flyweight design pattern\bin\Debug\Flyweight design pattern.pdb
+C:\Users\fatih\source\repos\Design patterns\Strucural design patterns\Flyweight design pattern\Flyweight design pattern\obj\Debug\Flyweight design pattern.csproj.AssemblyReference.cache
+C:\Users\fatih\source\repos\Design patterns\Strucural design patterns\Flyweight design pattern\Flyweight design pattern\obj\Debug\Flyweight design pattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\source\repos\Design patterns\Strucural design patterns\Flyweight design pattern\Flyweight design pattern\obj\Debug\Flyweight design pattern.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\Design patterns\Strucural design patterns\Flyweight design pattern\Flyweight design pattern\obj\Debug\Flyweight design pattern.exe
+C:\Users\fatih\source\repos\Design patterns\Strucural design patterns\Flyweight design pattern\Flyweight design pattern\obj\Debug\Flyweight design pattern.pdb

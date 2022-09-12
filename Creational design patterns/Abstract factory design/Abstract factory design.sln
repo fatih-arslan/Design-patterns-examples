@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract factory design", "Abstract factory design\Abstract factory design.csproj", "{D400182C-E968-450D-8A17-891B101F1972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D400182C-E968-450D-8A17-891B101F1972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D400182C-E968-450D-8A17-891B101F1972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D400182C-E968-450D-8A17-891B101F1972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D400182C-E968-450D-8A17-891B101F1972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04323791-082B-4385-83FA-0C49786A1D9B}
+	EndGlobalSection
+EndGlobal
